@@ -33,6 +33,5 @@ java -jar TicTacToe.jar
 Academic Project – Computer Science.
 
 ## Developed By
-**Gargi Nalavade**  
-MSc Computer Science – Part I  
+**Gargi Nalavade**   Computer Science 
 Guru Nanak Khalsa College of Arts, Science and Commerce, Mumbai
